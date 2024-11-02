@@ -33,9 +33,9 @@ import {
   TableHeader,
   TableRow,
 } from "@/components/ui/table";
-import { MapContainer, TileLayer, Circle, useMapEvents } from "react-leaflet";
+import dynamic from "next/dynamic";
+import { LatLngExpression } from "leaflet";
 import Image from "next/image";
-import "leaflet/dist/leaflet.css";
 
 const LoadingAnimation = () => (
   <div className="flex items-center justify-center space-x-2">
@@ -85,22 +85,10 @@ const provinces = ["DKI Jakarta", "Jawa Barat", "Jawa Tengah"];
 const districts = ["Jakarta Selatan", "Jakarta Pusat", "Jakarta Timur"];
 const subDistricts = ["Kebayoran Baru", "Menteng", "Kuningan"];
 
-const MapSelector = ({
-  setCenter,
-  radius,
-  setRadius,
-}: {
-  setCenter: (coords: [number, number]) => void;
-  radius: number;
-  setRadius: (radius: number) => void;
-}) => {
-  useMapEvents({
-    click(e) {
-      setCenter([e.latlng.lat, e.latlng.lng]);
-    },
-  });
-  return null;
-};
+const MapComponent = dynamic(() => import("@/components/MapComponent"), {
+  ssr: false,
+  loading: () => <div className="h-[400px] w-full rounded-lg bg-gray-100" />,
+});
 
 interface FoodRecommendationAIProps {
   name: string;
@@ -120,7 +108,7 @@ export default function FoodRecommendationAI() {
   const [province, setProvince] = useState("");
   const [district, setDistrict] = useState("");
   const [subDistrict, setSubDistrict] = useState("");
-  const [center, setCenter] = useState([-6.2088, 106.8456]); // Jakarta coordinates
+  const [center, setCenter] = useState<LatLngExpression>([-6.2088, 106.8456]); // Jakarta coordinates
   const [radius, setRadius] = useState(2000);
   const [priceEstimate, setPriceEstimate] = useState("");
   const [recommendations, setRecommendations] = useState<
@@ -187,12 +175,14 @@ export default function FoodRecommendationAI() {
               initial={{ scale: 0.8, opacity: 0 }}
               animate={{ scale: 1, opacity: 1 }}
               transition={{ delay: 0.2, duration: 0.5 }}
+              className="flex justify-center items-center"
             >
               <Image
                 src="/images/dish.svg"
                 width={100}
                 height={100}
                 alt="logo"
+                className="mx-auto"
               />
             </motion.div>
             <motion.h1
@@ -218,7 +208,7 @@ export default function FoodRecommendationAI() {
             >
               <Button
                 onClick={() => setStep(1)}
-                className="px-8 py-6 text-lg bg-black hover:bg-gray-800 text-white rounded-xl"
+                className="px-8 py-6 text-lg bg-primary"
               >
                 Mulai
               </Button>
@@ -331,22 +321,11 @@ export default function FoodRecommendationAI() {
                         ))}
                       </SelectContent>
                     </Select>
-                    <div className="h-[400px] w-full rounded-lg overflow-hidden">
-                      <MapContainer
-                        center={center}
-                        zoom={13}
-                        scrollWheelZoom={false}
-                        style={{ height: "100%", width: "100%" }}
-                      >
-                        <TileLayer url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png" />
-                        <Circle center={center} radius={radius} />
-                        <MapSelector
-                          setCenter={setCenter}
-                          radius={radius}
-                          setRadius={setRadius}
-                        />
-                      </MapContainer>
-                    </div>
+                    <MapComponent
+                      center={center}
+                      radius={radius}
+                      setCenter={setCenter}
+                    />
                     <div>
                       <label
                         htmlFor="radius"
