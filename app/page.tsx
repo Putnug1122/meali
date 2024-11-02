@@ -1,6 +1,6 @@
 "use client";
 
-import { useState, useEffect } from "react";
+import { useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { Button } from "@/components/ui/button";
 import {
@@ -85,7 +85,15 @@ const provinces = ["DKI Jakarta", "Jawa Barat", "Jawa Tengah"];
 const districts = ["Jakarta Selatan", "Jakarta Pusat", "Jakarta Timur"];
 const subDistricts = ["Kebayoran Baru", "Menteng", "Kuningan"];
 
-const MapSelector = ({ setCenter, radius, setRadius }) => {
+const MapSelector = ({
+  setCenter,
+  radius,
+  setRadius,
+}: {
+  setCenter: (coords: [number, number]) => void;
+  radius: number;
+  setRadius: (radius: number) => void;
+}) => {
   useMapEvents({
     click(e) {
       setCenter([e.latlng.lat, e.latlng.lng]);
