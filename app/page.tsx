@@ -36,49 +36,29 @@ import {
 import dynamic from "next/dynamic";
 import { LatLngExpression } from "leaflet";
 import Image from "next/image";
+import Lottie from "lottie-react";
+import cookingAnimation from "@/public/images/lottie.json";
 
-const LoadingAnimation = () => (
-  <div className="flex items-center justify-center space-x-2">
-    <motion.div
-      animate={{
-        scale: [1, 1.2, 1],
-        rotate: [0, 180, 360],
-      }}
-      transition={{
-        duration: 1.5,
-        repeat: Infinity,
-        ease: "easeInOut",
-      }}
-      className="w-4 h-4 bg-green-500 rounded-full"
-    />
-    <motion.div
-      animate={{
-        scale: [1, 1.2, 1],
-        rotate: [0, 180, 360],
-      }}
-      transition={{
-        duration: 1.5,
-        repeat: Infinity,
-        ease: "easeInOut",
-        delay: 0.2,
-      }}
-      className="w-4 h-4 bg-green-500 rounded-full"
-    />
-    <motion.div
-      animate={{
-        scale: [1, 1.2, 1],
-        rotate: [0, 180, 360],
-      }}
-      transition={{
-        duration: 1.5,
-        repeat: Infinity,
-        ease: "easeInOut",
-        delay: 0.4,
-      }}
-      className="w-4 h-4 bg-green-500 rounded-full"
-    />
-  </div>
-);
+const LoadingAnimation = () => {
+  // Ensure the animation data is imported correctly
+  const defaultOptions = {
+    loop: true,
+    autoplay: true,
+    animationData: cookingAnimation,
+    rendererSettings: {
+      preserveAspectRatio: "xMidYMid slice",
+    },
+  };
+
+  return (
+    <div className="flex flex-col items-center justify-center space-y-4">
+      <div className="w-64 h-64 flex items-center justify-center">
+        <Lottie {...defaultOptions} style={{ width: "100%", height: "100%" }} />
+      </div>
+      <p className="text-lg font-medium">Sedang menyiapkan rekomendasi...</p>
+    </div>
+  );
+};
 
 // Mock data for provinces, districts, and sub-districts
 const provinces = ["DKI Jakarta", "Jawa Barat", "Jawa Tengah"];
@@ -123,10 +103,12 @@ export default function FoodRecommendationAI() {
     exit: { opacity: 0, y: -20 },
   };
 
-  const handleNext = () => {
+  const handleNext = async () => {
     if (step === 3) {
       setIsLoading(true);
-      // Simulate API call
+      setStep(4); // Move this before the timeout
+
+      // Simulate API call with setTimeout
       setTimeout(() => {
         setIngredients([
           { name: "Ayam", kalori: "165 kcal", protein: "31g" },
@@ -137,22 +119,21 @@ export default function FoodRecommendationAI() {
           {
             name: "Ayam Panggang dengan Brokoli",
             ingredients: ["Ayam", "Brokoli", "Minyak Zaitun", "Bawang Putih"],
-            image: "/placeholder.svg?height=200&width=300",
+            image: "/images/ayam-panggang.jpg",
           },
           {
             name: "Quinoa Bowl dengan Sayuran",
             ingredients: ["Quinoa", "Brokoli", "Wortel", "Kacang Polong"],
-            image: "/placeholder.svg?height=200&width=300",
+            image: "/images/quinoa-salad-foto-resep-utama.jpg",
           },
           {
             name: "Sup Ayam dan Sayuran",
             ingredients: ["Ayam", "Brokoli", "Wortel", "Seledri"],
-            image: "/placeholder.svg?height=200&width=300",
+            image: "/images/sup.jpeg",
           },
         ]);
         setIsLoading(false);
-        setStep(step + 1);
-      }, 3000);
+      }, 4000);
     } else {
       setStep(step + 1);
     }
@@ -392,12 +373,7 @@ export default function FoodRecommendationAI() {
                     className="space-y-6"
                   >
                     {isLoading ? (
-                      <div className="flex flex-col items-center justify-center space-y-4">
-                        <LoadingAnimation />
-                        <p className="text-lg font-medium">
-                          Sedang menyiapkan rekomendasi...
-                        </p>
-                      </div>
+                      <LoadingAnimation />
                     ) : (
                       <>
                         <h2 className="text-lg font-semibold">
