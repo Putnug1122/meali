@@ -190,9 +190,9 @@ export default function FoodRecommendationAI() {
             >
               <Button
                 onClick={() => setStep(1)}
-                className="px-8 py-6 text-lg bg-primary"
+                className="px-8 py-6 text-lg bg-primary w-3/4"
               >
-                Mulai
+                Generate Menu
               </Button>
             </motion.div>
           </motion.div>
