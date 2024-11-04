@@ -17,6 +17,7 @@ import {
   SelectTrigger,
   SelectValue,
 } from "@/components/ui/select";
+import { ScrollArea } from "@/components/ui/scroll-area";
 
 interface NutritionItem {
   name: string;
@@ -33,6 +34,7 @@ interface Recipe {
   title: string;
   ingredients: string[];
   instructions: string[];
+  benefit: string;
 }
 
 const DailyMenuRecommendations = () => {
@@ -87,6 +89,8 @@ const DailyMenuRecommendations = () => {
         "Tambahkan nasi, garam, dan lada, aduk hingga rata dan panas.",
         "Sajikan hangat.",
       ],
+      benefit:
+        " Kombinasi nasi sebagai sumber energi dan bayam yang kaya akan zat besi serta telur sebagai protein membantu menjaga stamina tubuh saat cuaca dingin.",
     },
     {
       title: "Sup Bayam Telur",
@@ -104,6 +108,8 @@ const DailyMenuRecommendations = () => {
         "Bumbui dengan garam dan merica",
         "Sajikan hangat",
       ],
+      benefit:
+        "Sup bayam yang kaya akan zat besi dan vitamin A dapat membantu menjaga stamina tubuh saat cuaca dingin.",
     },
     {
       title: "Telur Dadar Bayam",
@@ -119,110 +125,120 @@ const DailyMenuRecommendations = () => {
         "Goreng hingga matang",
         "Sajikan",
       ],
+      benefit:
+        "Telur dadar yang kaya akan protein dan bayam cincang yang kaya akan vitamin A dapat membantu menjaga stamina tubuh saat cuaca dingin.",
     },
   ];
 
   return (
-    <div className="space-y-6">
-      <div className="flex justify-between items-center">
-        <Select defaultValue="hari-ke-1">
-          <SelectTrigger className="w-48">
-            <SelectValue placeholder="Pilih Hari" />
-          </SelectTrigger>
-          <SelectContent>
-            <SelectItem value="hari-ke-1">Hari ke-1</SelectItem>
-            <SelectItem value="hari-ke-2">Hari ke-2</SelectItem>
-          </SelectContent>
-        </Select>
-      </div>
+    <ScrollArea className="h-[800px] w-full rounded-md border p-4">
+      <div className="space-y-6">
+        <div className="flex justify-between items-center">
+          <Select defaultValue="hari-ke-1">
+            <SelectTrigger className="w-48">
+              <SelectValue placeholder="Pilih Hari" />
+            </SelectTrigger>
+            <SelectContent>
+              <SelectItem value="hari-ke-1">Hari ke-1</SelectItem>
+              <SelectItem value="hari-ke-2">Hari ke-2</SelectItem>
+            </SelectContent>
+          </Select>
+        </div>
 
-      <Card>
-        <CardHeader>
-          <CardTitle>Tabel Nutrisi</CardTitle>
-        </CardHeader>
-        <CardContent>
-          <Table>
-            <TableHeader>
-              <TableRow>
-                <TableHead>Bahan Pangan</TableHead>
-                <TableHead>Kategori</TableHead>
-                <TableHead>Energy (kcal)</TableHead>
-                <TableHead>Protein (g)</TableHead>
-                <TableHead>Fat (g)</TableHead>
-                <TableHead>Iron (mg)</TableHead>
-                <TableHead>Vitamin A (μg)</TableHead>
-                <TableHead>Estimasi Biaya (Rp)</TableHead>
-              </TableRow>
-            </TableHeader>
-            <TableBody>
-              {nutritionData.map((item, index) => (
-                <TableRow key={index}>
-                  <TableCell>{item.name}</TableCell>
-                  <TableCell>{item.category}</TableCell>
-                  <TableCell>{item.energy}</TableCell>
-                  <TableCell>{item.protein}</TableCell>
-                  <TableCell>{item.fat}</TableCell>
-                  <TableCell>{item.iron}</TableCell>
-                  <TableCell>{item.vitaminA}</TableCell>
-                  <TableCell>{item.cost.toLocaleString()}</TableCell>
+        <Card>
+          <CardHeader>
+            <CardTitle>Tabel Nutrisi</CardTitle>
+          </CardHeader>
+          <CardContent>
+            <Table>
+              <TableHeader>
+                <TableRow>
+                  <TableHead>Bahan Pangan</TableHead>
+                  <TableHead>Kategori</TableHead>
+                  <TableHead>Energy (kcal)</TableHead>
+                  <TableHead>Protein (g)</TableHead>
+                  <TableHead>Fat (g)</TableHead>
+                  <TableHead>Iron (mg)</TableHead>
+                  <TableHead>Vitamin A (μg)</TableHead>
+                  <TableHead>Estimasi Biaya (Rp)</TableHead>
                 </TableRow>
+              </TableHeader>
+              <TableBody>
+                {nutritionData.map((item, index) => (
+                  <TableRow key={index}>
+                    <TableCell>{item.name}</TableCell>
+                    <TableCell>{item.category}</TableCell>
+                    <TableCell>{item.energy}</TableCell>
+                    <TableCell>{item.protein}</TableCell>
+                    <TableCell>{item.fat}</TableCell>
+                    <TableCell>{item.iron}</TableCell>
+                    <TableCell>{item.vitaminA}</TableCell>
+                    <TableCell>{item.cost.toLocaleString()}</TableCell>
+                  </TableRow>
+                ))}
+              </TableBody>
+            </Table>
+          </CardContent>
+        </Card>
+
+        <Alert>
+          <AlertDescription>
+            <div className="space-y-2">
+              <p>Catatan Cuaca Terkini di Kudus:</p>
+              <ul className="list-disc pl-6">
+                <li>Tanggal: Minggu, 3 November 2024</li>
+                <li>
+                  Prakiraan Cuaca: Badai petir di beberapa bagian area ini
+                </li>
+                <li>Suhu: Maksimum 30°C, Minimum 25°C</li>
+              </ul>
+            </div>
+          </AlertDescription>
+        </Alert>
+
+        <Card>
+          <CardHeader>
+            <CardTitle>Rekomendasi Resep</CardTitle>
+          </CardHeader>
+          <CardContent>
+            <Tabs defaultValue="resep1">
+              <TabsList className="grid w-full grid-cols-3">
+                <TabsTrigger value="resep1">Resep 1</TabsTrigger>
+                <TabsTrigger value="resep2">Resep 2</TabsTrigger>
+                <TabsTrigger value="resep3">Resep 3</TabsTrigger>
+              </TabsList>
+              {recipes.map((recipe, index) => (
+                <TabsContent key={index} value={`resep${index + 1}`}>
+                  <div className="space-y-4">
+                    <h3 className="text-lg font-semibold">{recipe.title}</h3>
+                    <div>
+                      <h4 className="font-medium mb-2">Bahan-bahan:</h4>
+                      <ul className="list-disc pl-6 space-y-1">
+                        {recipe.ingredients.map((ingredient, idx) => (
+                          <li key={idx}>{ingredient}</li>
+                        ))}
+                      </ul>
+                    </div>
+                    <div>
+                      <h4 className="font-medium mb-2">Cara Memasak:</h4>
+                      <ol className="list-decimal pl-6 space-y-1">
+                        {recipe.instructions.map((step, idx) => (
+                          <li key={idx}>{step}</li>
+                        ))}
+                      </ol>
+                    </div>
+                    <div>
+                      <h4 className="font-medium mb-2">Manfaat:</h4>
+                      <p>{recipe.benefit}</p>
+                    </div>
+                  </div>
+                </TabsContent>
               ))}
-            </TableBody>
-          </Table>
-        </CardContent>
-      </Card>
-
-      <Alert>
-        <AlertDescription>
-          <div className="space-y-2">
-            <p>Catatan Cuaca Terkini di Kudus:</p>
-            <ul className="list-disc pl-6">
-              <li>Tanggal: Minggu, 3 November 2024</li>
-              <li>Prakiraan Cuaca: Badai petir di beberapa bagian area ini</li>
-              <li>Suhu: Maksimum 30°C, Minimum 25°C</li>
-            </ul>
-          </div>
-        </AlertDescription>
-      </Alert>
-
-      <Card>
-        <CardHeader>
-          <CardTitle>Rekomendasi Resep</CardTitle>
-        </CardHeader>
-        <CardContent>
-          <Tabs defaultValue="resep1">
-            <TabsList className="grid w-full grid-cols-3">
-              <TabsTrigger value="resep1">Resep 1</TabsTrigger>
-              <TabsTrigger value="resep2">Resep 2</TabsTrigger>
-              <TabsTrigger value="resep3">Resep 3</TabsTrigger>
-            </TabsList>
-            {recipes.map((recipe, index) => (
-              <TabsContent key={index} value={`resep${index + 1}`}>
-                <div className="space-y-4">
-                  <h3 className="text-lg font-semibold">{recipe.title}</h3>
-                  <div>
-                    <h4 className="font-medium mb-2">Bahan-bahan:</h4>
-                    <ul className="list-disc pl-6 space-y-1">
-                      {recipe.ingredients.map((ingredient, idx) => (
-                        <li key={idx}>{ingredient}</li>
-                      ))}
-                    </ul>
-                  </div>
-                  <div>
-                    <h4 className="font-medium mb-2">Cara Memasak:</h4>
-                    <ol className="list-decimal pl-6 space-y-1">
-                      {recipe.instructions.map((step, idx) => (
-                        <li key={idx}>{step}</li>
-                      ))}
-                    </ol>
-                  </div>
-                </div>
-              </TabsContent>
-            ))}
-          </Tabs>
-        </CardContent>
-      </Card>
-    </div>
+            </Tabs>
+          </CardContent>
+        </Card>
+      </div>
+    </ScrollArea>
   );
 };
 
