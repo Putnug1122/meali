@@ -38,6 +38,7 @@ import { LatLngExpression } from "leaflet";
 import Image from "next/image";
 import Lottie from "lottie-react";
 import cookingAnimation from "@/public/images/lottie.json";
+import DailyMenuRecommendations from "@/components/Recommendation";
 
 const LoadingAnimation = () => {
   // Ensure the animation data is imported correctly
@@ -375,78 +376,7 @@ export default function FoodRecommendationAI() {
                     {isLoading ? (
                       <LoadingAnimation />
                     ) : (
-                      <>
-                        <h2 className="text-lg font-semibold">
-                          Langkah 4: Rekomendasi
-                        </h2>
-                        <div>
-                          <h3 className="text-md  font-semibold mb-2">
-                            Top 3 Bahan Makanan Rekomendasi
-                          </h3>
-                          <Table>
-                            <TableHeader>
-                              <TableRow>
-                                <TableHead>Nama Bahan</TableHead>
-                                <TableHead>Kalori</TableHead>
-                                <TableHead>Protein</TableHead>
-                              </TableRow>
-                            </TableHeader>
-                            <TableBody>
-                              {ingredients.map((ingredient, index) => (
-                                <TableRow key={index}>
-                                  <TableCell>{ingredient.name}</TableCell>
-                                  <TableCell>{ingredient.kalori}</TableCell>
-                                  <TableCell>{ingredient.protein}</TableCell>
-                                </TableRow>
-                              ))}
-                            </TableBody>
-                          </Table>
-                        </div>
-                        <div>
-                          <h3 className="text-md font-semibold mb-2">
-                            Top 3 Rekomendasi Resep
-                          </h3>
-                          <Accordion
-                            type="single"
-                            collapsible
-                            className="w-full"
-                          >
-                            {recommendations.map((recipe, index) => (
-                              <AccordionItem
-                                value={`item-${index}`}
-                                key={index}
-                              >
-                                <AccordionTrigger>
-                                  {recipe.name}
-                                </AccordionTrigger>
-                                <AccordionContent>
-                                  <div className="flex flex-col md:flex-row gap-4">
-                                    <Image
-                                      src={recipe.image}
-                                      alt={recipe.name}
-                                      width={300}
-                                      height={200}
-                                      className="rounded-md object-cover"
-                                    />
-                                    <div>
-                                      <h3 className="font-medium mb-2">
-                                        Bahan-bahan:
-                                      </h3>
-                                      <ul className="list-disc list-inside">
-                                        {recipe.ingredients.map(
-                                          (ingredient, idx) => (
-                                            <li key={idx}>{ingredient}</li>
-                                          )
-                                        )}
-                                      </ul>
-                                    </div>
-                                  </div>
-                                </AccordionContent>
-                              </AccordionItem>
-                            ))}
-                          </Accordion>
-                        </div>
-                      </>
+                      <DailyMenuRecommendations />
                     )}
                   </motion.div>
                 )}
