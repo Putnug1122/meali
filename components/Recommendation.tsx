@@ -60,7 +60,17 @@ const DailyMenuRecommendations = () => {
       cost: 1500,
     },
     {
-      name: "Telur",
+      name: "Tahu",
+      category: "Nabati",
+      energy: 76,
+      protein: 8,
+      fat: 4.8,
+      iron: 1.2,
+      vitaminA: 0,
+      cost: 2000,
+    },
+    {
+      name: "Telur Ayam",
       category: "Hewani",
       energy: 155,
       protein: 13,
@@ -68,6 +78,16 @@ const DailyMenuRecommendations = () => {
       iron: 1.2,
       vitaminA: 98,
       cost: 3000,
+    },
+    {
+      name: "Sambal",
+      category: "Pelengkap",
+      energy: 20,
+      protein: 0.6,
+      fat: 0.3,
+      iron: 0.3,
+      vitaminA: 21,
+      cost: 500,
     },
   ];
 
@@ -139,8 +159,11 @@ const DailyMenuRecommendations = () => {
               <SelectValue placeholder="Pilih Hari" />
             </SelectTrigger>
             <SelectContent>
-              <SelectItem value="hari-ke-1">Hari ke-1</SelectItem>
-              <SelectItem value="hari-ke-2">Hari ke-2</SelectItem>
+              {[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14].map((item) => (
+                <SelectItem key={item} value={`hari-ke-${item}`}>
+                  Hari ke-{item}
+                </SelectItem>
+              ))}
             </SelectContent>
           </Select>
         </div>
