@@ -1,0 +1,262 @@
+X,Y,id,nama,npsn,ptk,ptk_laki,ptk_perempuan,pegawai,pegawai_laki,pegawai_perempuan,pd,pd_laki,pd_perempuan,rombel,kabupaten,kode_kabupaten,provinsi,kode_provinsi,alamat,status,jenjang,akreditasi,source,location_status
+102.3303,-3.1879,"12950",SDN 34 LEBONG,"10701965",7,2,5,2,0,2,16,9,7,6,Lebong,"1707",Bengkulu,"17",Desa Kota Donok,negeri,SD,C,kemdikbud,valid
+102.1608,-3.1279,"12957",SDN 66 LEBONG,"10702033",7,5,2,4,1,3,5,5,0,6,Lebong,"1707",Bengkulu,"17",DUSUN IV SAWAH MANGKURAJO,negeri,SD,B,kemdikbud,valid
+102.3229,-3.2179,"12960",SDIT AL-HUSNA,"69830640",8,1,7,3,1,2,182,106,76,7,Lebong,"1707",Bengkulu,"17",JALAN SUHARTO GANG IMAM MAHDI,swasta,SD,A,kemdikbud,valid
+0,0,"12968",TK TELADAN,"70028853",1,0,1,2,1,1,13,4,9,1,Lebong,"1707",Bengkulu,"17",Kampung Muara Aman,swasta,TK,,kemdikbud,not-mapped
+102.1938917,-3.1150667,"12973",SDN 01 LEBONG,"10701922",10,4,6,4,2,2,101,55,46,6,Lebong,"1707",Bengkulu,"17",Lokasari,negeri,SD,B,kemdikbud,valid
+102.1991,-3.116,"12976",SDN 20 LEBONG,"10701929",10,3,7,1,1,0,67,38,29,6,Lebong,"1707",Bengkulu,"17",Jln. Kelurahan Kampung Jawa,negeri,SD,B,kemdikbud,valid
+102.1835267,-3.1038067,"12977",SDN 43 LEBONG,"10701988",9,3,6,3,1,2,73,41,32,8,Lebong,"1707",Bengkulu,"17",Desa Ladang Palembang,negeri,SD,B,kemdikbud,valid
+102.2005017,-3.1291567,"12978",SDN 58 LEBONG,"10702023",10,1,9,1,0,1,69,40,29,6,Lebong,"1707",Bengkulu,"17",Desa Talang Ulu,negeri,SD,B,kemdikbud,valid
+102.1941,-3.1121,"12984",SMP IT AL-KAHFI,"70000962",8,4,4,1,0,1,98,67,31,4,Lebong,"1707",Bengkulu,"17","Jl. Gajah Mada, Gg. Aliyah",swasta,SMP,B,kemdikbud,valid
+102.1995817,-3.1162467,"12986",SMP MUHAMMADIYAH 05 MUARA AMAN,"10701977",7,5,2,2,2,0,49,32,17,3,Lebong,"1707",Bengkulu,"17",Jl. Kampung Jawa No 123,swasta,SMP,C,kemdikbud,valid
+102.1968017,-3.13136,"12989",SMK N 4 LEBONG,"69830643",21,8,13,4,0,4,199,94,105,10,Lebong,"1707",Bengkulu,"17",Jalan Raya Tubei,negeri,SMK,Tidak Terakreditasi,kemdikbud,valid
+0,0,"12997",SPS AL-IKHSAN,"69792438",2,0,2,1,0,1,0,0,0,0,Lebong,"1707",Bengkulu,"17",RIO CENDE,swasta,SPS,C,kemdikbud,not-mapped
+102.3894,-3.0871,"13003",SDN 23 LEBONG,"10701938",9,2,7,1,0,1,31,19,12,6,Lebong,"1707",Bengkulu,"17",Jln. Raya Embong Panjang,negeri,SD,C,kemdikbud,valid
+102.227,-3.1489,"13005",SDN 76 LEBONG,"10702043",11,2,9,2,0,2,156,83,73,7,Lebong,"1707",Bengkulu,"17",Pagar Agung,negeri,SD,C,kemdikbud,valid
+102.4137,-3.2298,"13017",SMAN 4 LEBONG,"10703077",14,7,7,8,5,3,183,88,95,7,Lebong,"1707",Bengkulu,"17",JL. SUKA NEGERI,negeri,SMA,B,kemdikbud,valid
+0,0,"13023",KB OSWATUN HASANAH,"69792450",1,1,0,1,0,1,26,13,13,1,Lebong,"1707",Bengkulu,"17",Jalan Raya Pelabuhan Talang Liak,swasta,KB,B,kemdikbud,not-mapped
+0,0,"13024",SPS AISYIYAH II,"69924894",0,0,0,2,0,2,27,11,16,1,Lebong,"1707",Bengkulu,"17",JALAN RAYA CURUP - MUARA AMAN,swasta,SPS,C,kemdikbud,not-mapped
+0,0,"13034",SPS AKHLAK MULIA,"69912083",0,0,0,0,0,0,0,0,0,0,Lebong,"1707",Bengkulu,"17",Jln. Suka Bumi Kec. Lebong Sakti,swasta,SPS,C,kemdikbud,not-mapped
+102.2367,-3.1409,"13035",SDN 25 LEBONG,"10701940",16,3,13,3,1,2,212,101,111,10,Lebong,"1707",Bengkulu,"17",Suka Bumi,negeri,SD,C,kemdikbud,valid
+102.2913702,-3.0914388,"13038",SDIT AL AZHAR,"70003940",9,2,7,2,1,1,222,122,100,10,Lebong,"1707",Bengkulu,"17",DESA SUKA BUMI KECAMATAN LEBONG SAKTI,swasta,SD,,kemdikbud,valid
+102.2459,-3.1322,"13039",SLBN  1 LEBONG,"10703434",11,3,8,5,2,3,63,41,22,33,Lebong,"1707",Bengkulu,"17",Jl.raya Curup Muara Aman,negeri,SLB,C,kemdikbud,valid
+102.2397,-3.1238,"13040",SMPN 15 LEBONG,"10703084",14,7,7,4,2,2,75,45,30,3,Lebong,"1707",Bengkulu,"17",JALAN DESA TABEAK KAUK,negeri,SMP,A,kemdikbud,valid
+0,0,"13042",KB IT SERINDANG BULAN,"70003956",0,0,0,2,0,2,0,0,0,0,Lebong,"1707",Bengkulu,"17",Jl. Raya Tubei - Arga Makmur Komplek Mesjid Agung Sultan Mahmud Abdullah Islamic,swasta,KB,,kemdikbud,not-mapped
+0,0,"13050",KB EDUKASIA,"69934338",1,0,1,1,0,1,38,16,22,2,Lebong,"1707",Bengkulu,"17",JALAN RAYA TALANG BUNUT,swasta,KB,C,kemdikbud,not-mapped
+0,0,"13051",KASIH BUNDA,"69780894",1,0,1,2,1,1,31,17,14,2,Lebong,"1707",Bengkulu,"17",SEMALO OGAN,swasta,KB,C,kemdikbud,not-mapped
+0,0,"13052",KB MELATI,"69792457",1,1,0,1,0,1,29,21,8,1,Lebong,"1707",Bengkulu,"17",M. THOHA,swasta,KB,B,kemdikbud,not-mapped
+0,0,"13054",KB MENTARI,"69792464",1,0,1,1,0,1,1,0,1,1,Lebong,"1707",Bengkulu,"17",RADEN KARNA,swasta,KB,C,kemdikbud,not-mapped
+0,0,"13056",MELATI,"69919440",2,1,1,1,0,1,54,29,25,2,Lebong,"1707",Bengkulu,"17",M. THOHA,swasta,SPS,C,kemdikbud,not-mapped
+0,0,"13063",KB CERIA,"69792458",1,0,1,1,0,1,23,10,13,2,Lebong,"1707",Bengkulu,"17",RAYA KOTA BARU,swasta,KB,C,kemdikbud,not-mapped
+0,0,"13064",KB DIOBA GITE,"69933824",2,0,2,1,0,1,42,23,19,2,Lebong,"1707",Bengkulu,"17",JALAN DESA KOTA AGUNG,swasta,KB,C,kemdikbud,not-mapped
+102.2662,-3.0818,"13065",SDN 55 LEBONG,"10702020",13,3,10,6,2,4,64,41,23,6,Lebong,"1707",Bengkulu,"17",JALAN RAYA KOTA AGUNG,negeri,SD,B,kemdikbud,valid
+0,0,"13068",KB AL -HASYR,"70007637",0,0,0,0,0,0,0,0,0,0,Lebong,"1707",Bengkulu,"17",Desa Sebelat Ulu,swasta,KB,,kemdikbud,not-mapped
+102.0489741,-2.8788193,"13070",SDN 85 LEBONG,"10703428",9,3,6,3,2,1,44,22,22,6,Lebong,"1707",Bengkulu,"17",Sungai Lisai,negeri,SD,C,kemdikbud,valid
+0,0,"55729",TPA BUNDA AT TAHZIEB,"69792459",6,0,6,1,0,1,32,18,14,3,Lebong,"1707",Bengkulu,"17",KIPATIH NO 49,swasta,TPA,C,kemdikbud,not-mapped
+0,0,"55730",TK - IT IZZATUL ISLAM,"10703353",9,0,9,1,0,1,81,45,36,9,Lebong,"1707",Bengkulu,"17",KELURAHAN KAMPUNG JAWA,swasta,TK,B,kemdikbud,not-mapped
+102.1874883,-3.1131383,"55733",SMPN 10 LEBONG,"10702004",12,4,8,4,2,2,37,24,13,3,Lebong,"1707",Bengkulu,"17",Jln.Lebong Tambang,negeri,SMP,B,kemdikbud,valid
+0,0,"55738",TK AISYIYAH 9,"70044043",2,0,2,1,0,1,17,10,7,1,Lebong,"1707",Bengkulu,"17",JL. RIO CENDE DESA TANJUNG BUNGAI II,swasta,TK,,kemdikbud,not-mapped
+0,0,"55740",TK WIE MEKAR,"69990834",1,0,1,3,1,2,30,20,10,1,Lebong,"1707",Bengkulu,"17",DESA KARANG ANYAR,swasta,TK,,kemdikbud,not-mapped
+0,0,"55741",SPS BINA ILMU,"69912976",0,0,0,0,0,0,0,0,0,0,Lebong,"1707",Bengkulu,"17",Jln. Semelako Atas,swasta,SPS,Tidak Terakreditasi,kemdikbud,not-mapped
+102.3973,-3.0937,"55742",SDN 71 LEBONG,"10702038",13,4,9,4,3,1,57,25,32,6,Lebong,"1707",Bengkulu,"17",Karang Anyar,negeri,SD,C,kemdikbud,valid
+102.1087,-2.8983,"55752",SMPN 17 LEBONG,"10703086",16,9,7,6,5,1,103,53,50,5,Lebong,"1707",Bengkulu,"17",Jl.Raya Desa Talang Donok-Topos Kec.Topos Kab.Lebong,negeri,SMP,C,kemdikbud,valid
+0,0,"55754",TK PAUD MUHAJIRIN,"70038260",2,0,2,1,0,1,15,5,10,2,Lebong,"1707",Bengkulu,"17","DESA BUKIT NIBUNG, KEC. BINGIN KUNING, KAB. LEBONG",swasta,TK,,kemdikbud,not-mapped
+102.2773,-3.1637,"55758",SDN 30 LEBONG,"10701960",9,4,5,5,4,1,98,51,47,6,Lebong,"1707",Bengkulu,"17",Desa Pelabuhan Talang Liak,negeri,SD,C,kemdikbud,valid
+102.3357,-3.1677,"55759",SDN 45 LEBONG,"10702009",8,1,7,3,0,3,41,25,16,6,Lebong,"1707",Bengkulu,"17",Desa Bukit Nibung,negeri,SD,C,kemdikbud,valid
+0,0,"55766",KB AKHLAK MULIA,"69792454",2,0,2,1,0,1,11,7,4,1,Lebong,"1707",Bengkulu,"17",SUKABUMI,swasta,KB,B,kemdikbud,not-mapped
+102.2499,-3.1348,"55772",SDN 53 LEBONG,"10702018",9,2,7,5,2,3,48,24,24,6,Lebong,"1707",Bengkulu,"17",Magelang Baru,negeri,SD,C,kemdikbud,valid
+102.2663,-3.1432,"55773",SD MUHAMMADIYAH,"10702109",8,3,5,1,1,0,214,109,105,11,Lebong,"1707",Bengkulu,"17",Ujung Tanjung,swasta,SD,B,kemdikbud,valid
+102.1462,-3.0924,"55774",SMPN 16 LEBONG,"10703085",17,6,11,2,1,1,105,55,50,6,Lebong,"1707",Bengkulu,"17",Desa Muning Agung,negeri,SMP,B,kemdikbud,valid
+0,0,"55776",KB ANUGRAH,"69912942",1,0,1,1,1,0,0,0,0,0,Lebong,"1707",Bengkulu,"17",JLn. Tabeak Blau II Kec. Pelabai,swasta,KB,C,kemdikbud,not-mapped
+0,0,"55780",TK BUNDA GHANIA,"70012054",1,0,1,1,1,0,30,18,12,2,Lebong,"1707",Bengkulu,"17",Desa Garut Kecamatan Amen,swasta,TK,,kemdikbud,not-mapped
+102.4018,-3.055,"55788",PKBM CEMERLANG,P9934791,6,2,4,3,2,1,143,84,59,7,Lebong,"1707",Bengkulu,"17",JL. M. TOHA,swasta,PKBM,,kemdikbud,valid
+102.3973,-3.0937,"55794",SDN 72 LEBONG,"10702039",9,5,4,4,0,4,113,47,66,6,Lebong,"1707",Bengkulu,"17",Embong Uram,negeri,SD,C,kemdikbud,valid
+102.1957,-3.0517,"55801",SDN 05 Lebong,"10701911",9,3,6,2,2,0,93,58,35,6,Lebong,"1707",Bengkulu,"17",Air Putih,negeri,SD,C,kemdikbud,valid
+102.2931,-3.2376,"105897",SDN 44 LEBONG,"10701989",7,2,5,0,0,0,1,1,0,3,Lebong,"1707",Bengkulu,"17",Sawah Melintang,negeri,SD,Tidak Terakreditasi,kemdikbud,valid
+102.308,-3.2031,"105898",SDN 74 LEBONG,"10702041",14,3,11,4,0,4,233,122,111,11,Lebong,"1707",Bengkulu,"17",Turan Lalang,negeri,SD,B,kemdikbud,valid
+102.3257,-3.2174,"105900",SMPN 06 LEBONG,"10701996",46,9,37,8,4,4,572,293,279,19,Lebong,"1707",Bengkulu,"17",Jl. Pariwisata II,negeri,SMP,A,kemdikbud,valid
+0,0,"105901",TK BUNGA MEKAR,"69996012",3,0,3,3,2,1,32,17,15,3,Lebong,"1707",Bengkulu,"17",DESA TUNGGANG,swasta,TK,,kemdikbud,not-mapped
+0,0,"105902",TK -MELATI,"10703351",1,0,1,1,0,1,24,8,16,1,Lebong,"1707",Bengkulu,"17",DESA LOKASARI,swasta,TK,C,kemdikbud,not-mapped
+102.1970533,-3.1200033,"105905",SDN 10 LEBONG,"10701917",13,3,10,2,0,2,81,41,40,6,Lebong,"1707",Bengkulu,"17",Jln. Kapolsek Lebong Utara,negeri,SD,B,kemdikbud,valid
+102.19911,-3.1167283,"105907",SDN 22 LEBONG,"10701937",29,11,18,5,2,3,521,250,271,18,Lebong,"1707",Bengkulu,"17",Jln. Kampung Jawa-Muara Aman,negeri,SD,A,kemdikbud,valid
+102.1984,-3.1172,"105909",SMAN 1 LEBONG,"10701980",44,18,26,12,6,6,753,336,417,22,Lebong,"1707",Bengkulu,"17",JALAN KAMPUNG JAWA BARU,negeri,SMA,A,kemdikbud,valid
+102.1993,-3.117,"105910",SMKS 6 MUHAMMADIYAH,"10701979",9,4,5,8,6,2,23,9,14,6,Lebong,"1707",Bengkulu,"17",Jalan Kampung Jawa No. 123,swasta,SMK,Tidak Terakreditasi,kemdikbud,valid
+102.4666,-3.2027,"105915",SDN 84 LEBONG,"10703315",10,4,6,2,1,1,44,15,29,6,Lebong,"1707",Bengkulu,"17",Jalan Rimbo Pengadang - Topos,negeri,SD,C,kemdikbud,valid
+102.381,-3.1902,"105919",SDN 33 LEBONG ,"10701964",8,2,6,3,1,2,106,54,52,6,Lebong,"1707",Bengkulu,"17",Desa Tanjung Bunga I,negeri,SD,C,kemdikbud,valid
+102.2468,-3.1704,"105920",SDN 79 LEBONG,"10702107",14,2,12,6,2,4,194,106,88,11,Lebong,"1707",Bengkulu,"17",Semelako,negeri,SD,B,kemdikbud,valid
+0,0,"105922",KB AKBAR TEBING JAYA,"69910784",0,0,0,1,0,1,0,0,0,0,Lebong,"1707",Bengkulu,"17",Jl. Tik Tebing Kec. Lebong Atas,swasta,KB,C,kemdikbud,not-mapped
+0,0,"105923",KB MUTIARA HATI,"69966282",1,1,0,1,0,1,39,21,18,2,Lebong,"1707",Bengkulu,"17",JALAN RAYA DESA TABEAK BLAU,swasta,KB,C,kemdikbud,not-mapped
+102.1731867,-3.183555,"105924",SDN 52 LEBONG,"10702017",10,1,9,3,2,1,101,50,51,6,Lebong,"1707",Bengkulu,"17",Atas Tebing,negeri,SD,C,kemdikbud,valid
+102.4312,-3.1791,"105926",SDN 51 LEBONG,"10702016",9,3,6,3,3,0,64,38,26,6,Lebong,"1707",Bengkulu,"17",Desa Tik Sirong,negeri,SD,C,kemdikbud,valid
+102.4334,-3.1777,"105927",SMPN 23 LEBONG,"10703378",8,4,4,2,2,0,20,8,12,2,Lebong,"1707",Bengkulu,"17",Ds. Tik Sirong,negeri,SMP,B,kemdikbud,valid
+102.2748,-3.1624,"105929",TK AN-NUR,"69980860",2,0,2,1,0,1,37,22,15,3,Lebong,"1707",Bengkulu,"17",DESA TALANG LIAK I,swasta,TK,C,kemdikbud,valid
+0,0,"105930",SPS OSWATUN HASANAH,"69792439",2,0,2,1,1,0,49,28,21,2,Lebong,"1707",Bengkulu,"17",Jalan Raya Pelabuhan Talang Liak,swasta,SPS,C,kemdikbud,not-mapped
+0,0,"105934",TK AISYIYAH 5,"70030672",0,0,0,2,0,2,0,0,0,0,Lebong,"1707",Bengkulu,"17",Desa Ujung Tanjung II,swasta,TK,,kemdikbud,not-mapped
+102.264103,-3.138385,"105939",SDN 17 LEBONG,"10701925",9,0,9,1,1,0,79,39,40,6,Lebong,"1707",Bengkulu,"17",Desa Ujung Tanjung I,negeri,SD,C,kemdikbud,valid
+102.2456,-3.1362,"105944",SMAN 3 LEBONG,"10701981",38,11,27,7,5,2,663,247,416,20,Lebong,"1707",Bengkulu,"17","Jln. Raya Muara Aman-Curup, Desa Lemeu Pit Kec. Lebong Sakti Kab. Lebong",negeri,SMA,A,kemdikbud,valid
+0,0,"105948",TPA ANUGERAH,"69912944",2,0,2,2,1,1,45,30,15,2,Lebong,"1707",Bengkulu,"17",Jln. Tabeak Blau II Kec. Pelabai,swasta,TPA,C,kemdikbud,not-mapped
+102.2039,-3.1016,"105951",SDN 49 LEBONG,"10702014",11,4,7,6,1,5,75,33,42,6,Lebong,"1707",Bengkulu,"17",PELABAI,negeri,SD,B,kemdikbud,valid
+0,0,"105952",SD IT SERINDANG BULAN,"70039698",2,0,2,1,0,1,18,8,10,2,Lebong,"1707",Bengkulu,"17","KELURAHAN TANJUNG AGUNG KEC. PELABAI, KAB. LEBONG, PROV. BENGKULU",swasta,SD,,kemdikbud,not-mapped
+102.2159763,-3.103272,"105953",SKB LEBONG,P9947980,12,3,9,3,0,3,297,196,101,15,Lebong,"1707",Bengkulu,"17",Jl. Rumah Adat Gunung Alam,negeri,SKB,B,kemdikbud,valid
+102.3431,-3.5415,"105954",TK PEMBINA LEBONG UTARA,"10703344",10,0,10,2,0,2,115,64,51,8,Lebong,"1707",Bengkulu,"17",JL. RAYA SUKA MARGA,negeri,TK,A,kemdikbud,potential-mistmatch
+102.2168967,-3.1104817,"105960",SDN 56 LEBONG,"10702021",11,2,9,3,1,2,39,19,20,6,Lebong,"1707",Bengkulu,"17",Talang Bunut,negeri,SD,B,kemdikbud,valid
+0,0,"105968",KB AS SALLAM,"69974816",1,0,1,1,1,0,20,12,8,2,Lebong,"1707",Bengkulu,"17",DESA KETENONG II,swasta,KB,C,kemdikbud,not-mapped
+0,0,"105969",KB HIDAYATULLOH,"69944001",3,0,3,3,0,3,32,21,11,3,Lebong,"1707",Bengkulu,"17",JALAN RAYA DESA AIR KKOPRAS,swasta,KB,C,kemdikbud,not-mapped
+102.1044308,-2.9428633,"105974",SDN 06 LEBONG,"10701912",8,5,3,6,4,2,45,21,24,6,Lebong,"1707",Bengkulu,"17",Sebelat Ulu,negeri,SD,C,kemdikbud,valid
+102.3252,-3.2183,"156208",TK PEMBINA LEBONG SELATAN,"10703354",6,0,6,4,0,4,62,32,30,6,Lebong,"1707",Bengkulu,"17",TES,negeri,TK,B,kemdikbud,valid
+102.3174,-3.209,"156209",KB CEMPAKA,"69792429",2,0,2,1,0,1,22,9,13,2,Lebong,"1707",Bengkulu,"17",SENTRAL PLTA TES,swasta,KB,C,kemdikbud,valid
+102.3128,-3.2161,"156211",KB IT CENDIKIA,"70004112",2,0,2,3,2,1,22,11,11,2,Lebong,"1707",Bengkulu,"17",Jl. AMD Mubai Rt.08 Rw.03 Kelurahan Mubai,swasta,KB,B,kemdikbud,valid
+102.2002,-3.1248,"156231",SDN 63 LEBONG,"10702029",23,4,19,1,1,0,202,98,104,10,Lebong,"1707",Bengkulu,"17",Jln. Lapangan Hatta,negeri,SD,B,kemdikbud,valid
+102.1956,-3.1106,"156233",SDN 81 LEBONG,"10702163",12,2,10,4,1,3,234,106,128,10,Lebong,"1707",Bengkulu,"17",Jalan Singadikane,negeri,SD,B,kemdikbud,valid
+102.19821,-3.1157633,"156234",SMPN 01 LEBONG,"10701991",47,17,30,7,5,2,814,378,436,25,Lebong,"1707",Bengkulu,"17",Jalan Kampung Jawa Baru,negeri,SMP,A,kemdikbud,valid
+102.115,-2.8762,"156240",SMPN 04 LEBONG,"10701994",13,8,5,4,1,3,49,23,26,3,Lebong,"1707",Bengkulu,"17",Rimbo Pengadang,negeri,SMP,C,kemdikbud,valid
+0,0,"156243",KB LESTARI,"69952315",2,0,2,2,2,0,70,26,44,3,Lebong,"1707",Bengkulu,"17",JL. RAYA DESA SEMELAKO ATAS,swasta,KB,C,kemdikbud,not-mapped
+0,0,"156244",KB WI MEKAR,"69912920",0,0,0,3,0,3,1,0,1,1,Lebong,"1707",Bengkulu,"17",Jln. Karang Anyar  Kec. Lebong Tengah,swasta,KB,C,kemdikbud,not-mapped
+102.3783,-3.2269,"156247",SDN 70 LEBONG,"10702037",3,3,0,5,1,4,89,50,39,6,Lebong,"1707",Bengkulu,"17",Danau Liang,negeri,SD,C,kemdikbud,valid
+0,0,"156253",SETIA BUNDA,"69781227",1,1,0,1,0,1,34,18,16,2,Lebong,"1707",Bengkulu,"17",JLN RAYA TUBEI - ARGA MAKMUR,swasta,KB,C,kemdikbud,not-mapped
+102.4347,-3.2011,"156258",SDN 32 LEBONG,"10701963",16,3,13,4,4,0,164,84,80,8,Lebong,"1707",Bengkulu,"17",Desa Topos,negeri,SD,C,kemdikbud,valid
+0,0,"156264",TK HARAPAN,"10703356",1,0,1,3,0,3,17,5,12,2,Lebong,"1707",Bengkulu,"17",Talang Liak Port Village,swasta,TK,C,kemdikbud,not-mapped
+102.2795787,-3.155402,"156267",SMPN 05 LEBONG,"10701995",36,13,23,4,0,4,424,218,206,14,Lebong,"1707",Bengkulu,"17",Talang Leak,negeri,SMP,A,kemdikbud,valid
+0,0,"156268",PKBM OSWATUN HASANAH,P9998313,5,1,4,3,0,3,85,42,43,5,Lebong,"1707",Bengkulu,"17",Pelabuhan talang Liak,swasta,PKBM,,kemdikbud,not-mapped
+0,0,"156270",TK AISYIYAH 7,"70004932",2,1,1,1,0,1,23,12,11,2,Lebong,"1707",Bengkulu,"17",Kel. Magelang Baru Kec. Lebong Sakti,swasta,TK,,kemdikbud,not-mapped
+0,0,"156272",TK AZ-ZAHRA,"69974229",3,0,3,1,0,1,26,11,15,2,Lebong,"1707",Bengkulu,"17",DESA TABEAK KAUK,swasta,TK,C,kemdikbud,not-mapped
+0,0,"156275",KB SERUNI,"69981510",2,0,2,2,1,1,34,19,15,3,Lebong,"1707",Bengkulu,"17",DESA MUNING AGUNG,swasta,KB,C,kemdikbud,not-mapped
+0,0,"156278",SPS SERUNI,"69981654",3,0,3,1,0,1,37,18,19,3,Lebong,"1707",Bengkulu,"17",DESA MUNING AGUNG,swasta,SPS,C,kemdikbud,not-mapped
+102.1443,-3.0806,"156281",SDN 37 LEBONG,"10701968",10,1,9,2,2,0,39,13,26,6,Lebong,"1707",Bengkulu,"17",Desa Ujung Tanjung III,negeri,SD,C,kemdikbud,valid
+0,0,"156287",WAAZRIM KARIM,"69780469",4,0,4,1,1,0,48,24,24,5,Lebong,"1707",Bengkulu,"17",DESA SUKA DATANG,swasta,KB,C,kemdikbud,not-mapped
+102.1502946,-3.1541124,"156289",SDN 57 LEBONG,"10702022",20,4,16,4,3,1,201,118,83,11,Lebong,"1707",Bengkulu,"17",Jln. Raya Sukau Datang,negeri,SD,C,kemdikbud,valid
+102.150094,-3.187509,"156291",SDN 87 LEBONG,"69963813",10,5,5,3,1,2,69,40,29,6,Lebong,"1707",Bengkulu,"17",Desa Pelabai Kecamatan Pelabai Kabupaten Lebong,negeri,SD,C,kemdikbud,valid
+0,0,"156298",KB ANANDA,"69981814",2,0,2,1,1,0,30,15,15,2,Lebong,"1707",Bengkulu,"17",DESA GARUT,swasta,KB,C,kemdikbud,not-mapped
+0,0,"156302",SMP IT AL-FALAH,"70040645",3,1,2,3,1,2,8,6,2,2,Lebong,"1707",Bengkulu,"17",Jl Pangeran Zainal Abidin Kel Amen Kec. Amen Kab Lebong Prov Bengkulu kode Pos 3,swasta,SMP,,kemdikbud,not-mapped
+102.2193,-3.1002,"156315",SMPN 12 LEBONG,"10702008",26,10,16,3,1,2,192,109,83,8,Lebong,"1707",Bengkulu,"17",Bentangur,negeri,SMP,B,kemdikbud,valid
+0,0,"156316",TK AISYIYAH 6,"69974280",2,0,2,1,0,1,51,26,25,3,Lebong,"1707",Bengkulu,"17",DESA KETENONG,swasta,TK,C,kemdikbud,not-mapped
+0,0,"224785",TK PAUD  IT CENDIKIA,"70028956",3,0,3,2,1,1,22,11,11,1,Lebong,"1707",Bengkulu,"17",Jl.Karang Tinggi Rt 08 Rw 03 Kelurahan Mubai,swasta,TK,,kemdikbud,not-mapped
+0,0,"224787",KB AL-HUSNA,"69975236",2,0,2,1,1,0,0,0,0,0,Lebong,"1707",Bengkulu,"17",KEL.TURAN LALANG,swasta,KB,C,kemdikbud,not-mapped
+0,0,"224790",PERDANA,"69780465",1,0,1,1,0,1,14,6,8,2,Lebong,"1707",Bengkulu,"17",TES,swasta,KB,C,kemdikbud,not-mapped
+102.3644,-3.2445,"224793",SDN 36 LEBONG,"10701967",7,3,4,3,0,3,73,41,32,6,Lebong,"1707",Bengkulu,"17",Jalan Mangkurajo,negeri,SD,B,kemdikbud,valid
+102.3657,-3.3302,"224794",SDN 40 LEBONG,"10701971",16,2,14,4,0,4,289,158,131,13,Lebong,"1707",Bengkulu,"17",Jl. Pariwisata I Danau Tes,negeri,SD,C,kemdikbud,valid
+102.3183,-3.2473,"224795",SDN 46 LEBONG,"10702010",6,2,4,2,0,2,36,24,12,6,Lebong,"1707",Bengkulu,"17",Desa Turan Tiging,negeri,SD,B,kemdikbud,valid
+102.3682,-3.2573,"224796",SDN 65 LEBONG,"10702032",18,4,14,3,1,2,316,143,173,13,Lebong,"1707",Bengkulu,"17",Kel.Taba Anyar,negeri,SD,C,kemdikbud,valid
+102.3328,-3.2244,"224797",SDN 78 LEBONG,"10702103",6,1,5,2,0,2,57,32,25,6,Lebong,"1707",Bengkulu,"17",Tes,negeri,SD,B,kemdikbud,valid
+102.3223,-3.2182,"224803",SMAN 2 LEBONG,"10701986",27,9,18,12,9,3,427,214,213,14,Lebong,"1707",Bengkulu,"17",JL. AMD TABA ANYAR,negeri,SMA,A,kemdikbud,valid
+102.1749189,-3.0986568,"224815",PKBM AT-TAHZIEB,P9963059,2,2,0,1,0,1,100,64,36,7,Lebong,"1707",Bengkulu,"17",JALAN RAYA KIPATIH NO 49,swasta,PKBM,C,kemdikbud,valid
+0,0,"224817",TK BUNGAI SEKEDAI,"70012059",2,0,2,1,1,0,14,8,6,2,Lebong,"1707",Bengkulu,"17",Desa Teluk Dien,swasta,TK,,kemdikbud,not-mapped
+102.3801,-3.258,"224818",SDN 35 LEBONG,"10701966",9,1,8,3,1,2,84,53,31,6,Lebong,"1707",Bengkulu,"17",JALAN LINTAS CURUP MUARA AMAN,negeri,SD,B,kemdikbud,valid
+0,0,"224821",TK AISYIYAH III,"69962560",1,0,1,1,0,1,50,30,20,3,Lebong,"1707",Bengkulu,"17",JALAN RAYA EMBONG PANJANG,swasta,TK,C,kemdikbud,not-mapped
+0,0,"224826",SPS LESTARI,"69974333",2,1,1,1,0,1,1,1,0,1,Lebong,"1707",Bengkulu,"17",SEMELAKO,swasta,SPS,C,kemdikbud,not-mapped
+102.3573,-3.1073,"224828",SDN 29 LEBONG,"10701959",16,4,12,5,2,3,236,122,114,11,Lebong,"1707",Bengkulu,"17",SEMELAKO ATAS,negeri,SD,B,kemdikbud,valid
+102.2264,-3.1467,"224832",SMPN 08 LEBONG,"10701998",30,8,22,4,1,3,500,229,271,17,Lebong,"1707",Bengkulu,"17",Jalan Raya Kelurahan Embong Panjang,negeri,SMP,A,kemdikbud,valid
+0,0,"224834",CAHAYA BUNDA,"69910258",2,0,2,1,1,0,32,19,13,2,Lebong,"1707",Bengkulu,"17",JALAN SUKAU KAYO,swasta,KB,C,kemdikbud,not-mapped
+0,0,"224835",KB HARAPAN JAYA,"69799862",3,0,3,1,0,1,0,0,0,0,Lebong,"1707",Bengkulu,"17",RAYABTUBEI,swasta,KB,C,kemdikbud,not-mapped
+102.4194,-3.2467,"224838",SDN 28 LEBONG,"10701957",9,5,4,3,3,0,77,37,40,6,Lebong,"1707",Bengkulu,"17",Desa Talang Donok I Kec. Topos Kab. Lebong Provinsi Bengkulu,negeri,SD,C,kemdikbud,valid
+102.411,-3.225,"224839",SMPN 07 LEBONG,"10701997",22,9,13,3,3,0,210,111,99,8,Lebong,"1707",Bengkulu,"17",JALAN TAPUS - BANDAR AGUNG,negeri,SMP,C,kemdikbud,valid
+0,0,"224851",PKBM MUHAJIRIN,P9998873,2,1,1,2,1,1,26,12,14,4,Lebong,"1707",Bengkulu,"17","DESA BUKIT NIBUNG, KEC. BINGIN KUNING, KAB. LEBONG",swasta,PKBM,,kemdikbud,not-mapped
+102.2597,-3.1381,"224855",SDN 14 LEBONG,"10701921",10,4,6,1,0,1,92,38,54,6,Lebong,"1707",Bengkulu,"17",Muning Agung,negeri,SD,B,kemdikbud,valid
+102.2418,-3.1232,"224859",SDN 59 LEBONG,"10702024",9,4,5,3,2,1,60,29,31,6,Lebong,"1707",Bengkulu,"17",Taba Seberang,negeri,SD,C,kemdikbud,valid
+0,0,"224861",PAUD AISYIYAH 8,"69991977",2,1,1,1,0,1,25,10,15,2,Lebong,"1707",Bengkulu,"17",Desa Pelabai,swasta,TK,C,kemdikbud,not-mapped
+102.1512,-3.0843,"224864",SDN 77 LEBONG,"10702044",13,2,11,4,1,3,136,77,59,7,Lebong,"1707",Bengkulu,"17",Kota Baru Santan,negeri,SD,B,kemdikbud,valid
+102.1777,-3.1525,"224866",SDN 60 LEBONG,"10702025",15,3,12,6,5,1,95,51,44,6,Lebong,"1707",Bengkulu,"17",Jl. Raya Gunung Alam,negeri,SD,B,kemdikbud,valid
+102.3605,-3.0624,"224868",SMPN 13 LEBONG,"10703082",22,8,14,2,2,0,132,45,87,6,Lebong,"1707",Bengkulu,"17",Suka Datang,negeri,SMP,B,kemdikbud,valid
+102.2183,-3.139,"224876",SDN 61 LEBONG,"10702027",8,1,7,5,4,1,84,43,41,6,Lebong,"1707",Bengkulu,"17",Jl. Raya H. Raden Karna,negeri,SD,B,kemdikbud,valid
+102.21108,-3.1316367,"224877",SMPN 22 LEBONG,"10703225",18,7,11,3,3,0,75,44,31,3,Lebong,"1707",Bengkulu,"17",Sukau Mergo,negeri,SMP,B,kemdikbud,valid
+102.2662,-3.0818,"224883",KB BINA KASIH,"69912134",1,0,1,1,0,1,17,9,8,2,Lebong,"1707",Bengkulu,"17",Jln. Pangkalan Kec. Uram Jaya,swasta,KB,C,kemdikbud,valid
+0,0,"224887",TPA EL KHAIR,"70029233",2,0,2,1,1,0,16,6,10,1,Lebong,"1707",Bengkulu,"17",Desa Tangua,swasta,TPA,,kemdikbud,not-mapped
+102.3916,-3.0602,"224889",SDN 50 LEBONG,"10702015",0,0,0,1,1,0,0,0,0,0,Lebong,"1707",Bengkulu,"17",Kota Baru,negeri,SD,C,kemdikbud,valid
+102.1228,-2.9727,"224897",SDN 03 LEBONG,"10701909",8,3,5,3,2,1,63,38,25,6,Lebong,"1707",Bengkulu,"17",Ketenong II,negeri,SD,B,kemdikbud,valid
+0,0,"224898",SD INTEGRAL HIDAYATULLAH,"70007659",3,1,2,2,0,2,41,21,20,5,Lebong,"1707",Bengkulu,"17",Jl.Sultan Bagindo kel. Air Kopras,swasta,SD,,kemdikbud,not-mapped
+0,0,"274751",KB MELATI INDAH,"69912910",1,0,1,2,0,2,32,12,20,2,Lebong,"1707",Bengkulu,"17",Jln.Desa Mangkurajo,swasta,KB,C,kemdikbud,not-mapped
+0,0,"274755",KB RESTU,"69910756",1,0,1,1,0,1,28,18,10,2,Lebong,"1707",Bengkulu,"17",Jln. Pariwisata II Kel. Tes,swasta,KB,C,kemdikbud,not-mapped
+102.3165,-3.1748,"274758",SDN 69 LEBONG,"10702036",8,1,7,2,0,2,69,32,37,6,Lebong,"1707",Bengkulu,"17",Kutai Donok,negeri,SD,B,kemdikbud,valid
+102.3382,-3.1787,"274763",PKBM BERMANI,P2966896,6,0,6,1,1,0,123,82,41,7,Lebong,"1707",Bengkulu,"17",Kelurahan Tes,swasta,PKBM,C,kemdikbud,valid
+0,0,"274765",TK AL-BAROQAH,"69976608",3,0,3,3,0,3,54,21,33,3,Lebong,"1707",Bengkulu,"17",LEBONG TAMBANG,swasta,TK,B,kemdikbud,not-mapped
+102.193389,-3.114398,"274770",TPA AL - BAROKAH,"69910749",4,0,4,1,0,1,24,12,12,2,Lebong,"1707",Bengkulu,"17",Jln. Lebong Tambang Kec. Lebong Utara,swasta,TPA,C,kemdikbud,valid
+102.190655,-3.1150383,"274772",SDN 68 LEBONG,"10702035",9,2,7,3,2,1,25,13,12,6,Lebong,"1707",Bengkulu,"17",Desa Lebong Tambang,negeri,SD,C,kemdikbud,valid
+102.4568,-3.2028,"274782",SMPN 18 LEBONG,"10703087",12,4,8,4,2,2,84,40,44,4,Lebong,"1707",Bengkulu,"17",Jl. Raya Curup Muara Aman Km 20 Desa Bioa Sengok,negeri,SMP,C,kemdikbud,valid
+0,0,"274785",KB BINA ILMU,"69792444",0,0,0,1,0,1,0,0,0,0,Lebong,"1707",Bengkulu,"17",RIO CENDE,swasta,KB,C,kemdikbud,not-mapped
+102.1807567,-3.1746233,"274789",SDN 18 LEBONG,"10701926",11,3,8,3,0,3,87,42,45,6,Lebong,"1707",Bengkulu,"17",Desa Tabeak Blau satu,negeri,SD,B,kemdikbud,valid
+102.1728,-3.0284,"274790",SDN 19 LEBONG,"10701928",13,6,7,4,1,3,122,62,60,6,Lebong,"1707",Bengkulu,"17",Sukau Kayo,negeri,SD,B,kemdikbud,valid
+102.1748817,-3.16628,"274795",SMAN 5 LEBONG,"10703076",26,10,16,8,5,3,447,190,257,14,Lebong,"1707",Bengkulu,"17",JL. RAYA SUKAU KAYO,negeri,SMA,A,kemdikbud,valid
+102.2886,-3.1733,"274801",TK AISIYAH BUSTANUL,"10703364",2,0,2,1,0,1,29,9,20,2,Lebong,"1707",Bengkulu,"17",PUNGGUK PEDARO,swasta,TK,C,kemdikbud,valid
+102.2875,-3.1703,"274806",SDN 12 LEBONG,"10701919",8,3,5,7,2,5,188,93,95,7,Lebong,"1707",Bengkulu,"17",Jl. Serban Kuning Desa Pugguk Pedaro Kecamatan Bingin Kuning Kabupaten Lebong,negeri,SD,C,kemdikbud,valid
+102.1666,-3.0979,"274808",SDN 82 LEBONG,"10703092",11,1,10,0,0,0,93,47,46,6,Lebong,"1707",Bengkulu,"17",Desa Talang Liak II,negeri,SD,C,kemdikbud,valid
+102.2453,-3.1368,"274814",SDN 80 LEBONG,"10702147",11,3,8,0,0,0,42,20,22,6,Lebong,"1707",Bengkulu,"17",Limau Pit,negeri,SD,C,kemdikbud,valid
+102.1905,-3.0921,"274819",SDN 62 LEBONG,"10702028",9,4,5,3,1,2,43,24,19,6,Lebong,"1707",Bengkulu,"17",DESA TABEAK BLAU II,negeri,SD,B,kemdikbud,valid
+102.1777,-3.1525,"274824",PKBM CAHAYA ILMU,P9934493,6,2,4,1,1,0,119,74,45,6,Lebong,"1707",Bengkulu,"17",PKBM CAHAYA ILMU,swasta,PKBM,C,kemdikbud,valid
+0,0,"274825",TK ANANDA,"69987303",1,0,1,0,0,0,22,13,9,2,Lebong,"1707",Bengkulu,"17",DESA GARUT,swasta,TK,C,kemdikbud,not-mapped
+0,0,"274832",TPA MENTARI,"69792430",2,1,1,1,0,1,42,28,14,2,Lebong,"1707",Bengkulu,"17",RADEN KARNA,swasta,TPA,C,kemdikbud,not-mapped
+0,0,"274842",PAUD EL KHAIR,"69996039",1,0,1,1,0,1,42,22,20,2,Lebong,"1707",Bengkulu,"17",DESA TANGUA,swasta,TK,C,kemdikbud,not-mapped
+0,0,"274847",KB HARAPAN BANGSA,"69792443",0,0,0,1,1,0,0,0,0,0,Lebong,"1707",Bengkulu,"17",LEMEU,swasta,KB,C,kemdikbud,not-mapped
+102.2185,-3.1005,"274849",SMKN 2 LEBONG,"10703078",27,11,16,6,4,2,367,259,108,15,Lebong,"1707",Bengkulu,"17",JL. RAYA DESA BENTANGUR,negeri,SMK,B,kemdikbud,valid
+0,0,"274850",PKBM PUTRI SERINDANG BULAN,P9998384,7,2,5,2,0,2,24,11,13,3,Lebong,"1707",Bengkulu,"17",Desa Kota baru Kecamatan Uram Jaya,swasta,PKBM,,kemdikbud,not-mapped
+102.1457481,-2.9992554,"274853",SMPN 20 LEBONG,"10703094",10,6,4,2,1,1,97,52,45,4,Lebong,"1707",Bengkulu,"17",Ketenong I,negeri,SMP,B,kemdikbud,valid
+0,0,"324998",TK DHARMAWANITA,"10703355",7,0,7,1,0,1,95,49,46,3,Lebong,"1707",Bengkulu,"17",KELURAHAN TABA ANYAR,swasta,TK,C,kemdikbud,not-mapped
+102.2424,-3.1631,"325005",SDN 38 LEBONG,"10701969",7,1,6,2,0,2,36,20,16,6,Lebong,"1707",Bengkulu,"17",Tes,negeri,SD,B,kemdikbud,valid
+102.3222812,-3.2203623,"325007",SMP IT AL HUSNA,"70009387",5,1,4,1,1,0,62,36,26,3,Lebong,"1707",Bengkulu,"17","Jalan Pulau Harapan,",swasta,SMP,C,kemdikbud,valid
+0,0,"325028",TK NEGERI RIMBO PENGADANG,"10703362",2,0,2,0,0,0,27,13,14,2,Lebong,"1707",Bengkulu,"17",Kelurahan Rimbo Pengadang,negeri,TK,C,kemdikbud,not-mapped
+0,0,"325030",KB AL-IKHSAN,"69792460",1,0,1,1,0,1,27,11,16,2,Lebong,"1707",Bengkulu,"17",RIO CENDE,swasta,KB,C,kemdikbud,not-mapped
+0,0,"325032",KB LEAS,"69792445",1,0,1,0,0,0,8,3,5,1,Lebong,"1707",Bengkulu,"17",SEMELAKO,swasta,KB,C,kemdikbud,not-mapped
+102.2506,-3.1662,"325039",SMPN 09 LEBONG,"10702002",17,3,14,5,2,3,137,84,53,6,Lebong,"1707",Bengkulu,"17",Karang Anyar,negeri,SMP,C,kemdikbud,valid
+102.2289,-3.147,"325040",SMKN 1 LEBONG ,"10703079",30,6,24,3,2,1,195,104,91,17,Lebong,"1707",Bengkulu,"17",RAYA EMBONG PANJANG,negeri,SMK,B,kemdikbud,valid
+102.1767,3.1608,"325049",PKBM AL FARIZI,P9997126,14,3,11,2,2,0,108,74,34,6,Lebong,"1707",Bengkulu,"17",DESA TABEAK BLAU I,swasta,PKBM,,kemdikbud,not-mapped
+102.164,-3.0966,"325057",SDN 15 LEBONG,"10701923",9,2,7,4,1,3,54,38,16,6,Lebong,"1707",Bengkulu,"17",Desa Pelabuhan Talang Liak,negeri,SD,C,kemdikbud,valid
+0,0,"325060",TK AT-THAARIQ,"70007608",2,0,2,1,0,1,7,5,2,2,Lebong,"1707",Bengkulu,"17",Desa Magelang Baru,swasta,TK,,kemdikbud,not-mapped
+0,0,"325067",KB BUNGA JEMPA,"69792440",1,0,1,1,1,0,1,1,0,1,Lebong,"1707",Bengkulu,"17",Desa Gunung Alam,swasta,KB,C,kemdikbud,not-mapped
+0,0,"325068",TK ANUGRAH,"69912947",2,0,2,1,0,1,19,11,8,1,Lebong,"1707",Bengkulu,"17",Jln. Tabeak Blau II Kec. Pelabai,swasta,TK,C,kemdikbud,not-mapped
+0,0,"325072",KB AL-FATH,"69934236",2,0,2,1,0,1,28,14,14,3,Lebong,"1707",Bengkulu,"17",JALAN RAYA SUNGAI GERONG,swasta,KB,C,kemdikbud,not-mapped
+0,0,"325078",SPS MENTARI,"69792437",3,2,1,1,0,1,0,0,0,0,Lebong,"1707",Bengkulu,"17",RADEN KARNA,swasta,SPS,,kemdikbud,not-mapped
+102.1950928,-3.092662,"325098",SDN 11 LEBONG,"10701918",10,2,8,3,1,2,100,45,55,6,Lebong,"1707",Bengkulu,"17",Air Kopras,negeri,SD,B,kemdikbud,valid
+0,0,"374816",KB PAUD MANDIRI,"70010983",0,0,0,1,0,1,23,12,11,1,Lebong,"1707",Bengkulu,"17",Kelurahan Taba Anyar,swasta,KB,,kemdikbud,not-mapped
+0,0,"374819",SEKAWAN,"69919740",2,0,2,1,0,1,30,12,18,2,Lebong,"1707",Bengkulu,"17",JALAN PARIWISATA II,swasta,KB,C,kemdikbud,not-mapped
+102.3174,-3.209,"374820",CEMPAKA,"69780713",0,0,0,1,0,1,16,8,8,1,Lebong,"1707",Bengkulu,"17",SENTRAL PLTA TES,swasta,TPA,C,kemdikbud,valid
+102.2743,-3.1605,"374824",SDN 47 LEBONG,"10702011",9,3,6,1,0,1,29,15,14,6,Lebong,"1707",Bengkulu,"17",Desa Mangkurajo,negeri,SD,C,kemdikbud,valid
+102.2909,-3.2574,"374829",SDN 83 LEBONG,"10703096",16,4,12,2,0,2,189,91,98,10,Lebong,"1707",Bengkulu,"17",Jln Muara Aman-Curup,negeri,SD,B,kemdikbud,valid
+102.3403,-3.1779,"374831",PKBM LEPANZA,P2966897,4,2,2,2,1,1,150,92,58,8,Lebong,"1707",Bengkulu,"17",Desa Kota Donok,swasta,PKBM,C,kemdikbud,valid
+102.0195,-2.7625,"374833",TK -AISYIAH,"10703350",7,0,7,5,1,4,148,76,72,8,Lebong,"1707",Bengkulu,"17",JL. KAMPUNG JAWA,swasta,TK,B,kemdikbud,valid
+102.19886,-3.11991,"374834",TK AL KAROMAH,"69910633",2,0,2,2,1,1,27,15,12,2,Lebong,"1707",Bengkulu,"17",Jl. Penjara Lama,swasta,TK,B,kemdikbud,valid
+102.196933,-3.120538,"374838",KB DALADA,"69792446",1,0,1,2,0,2,34,14,20,2,Lebong,"1707",Bengkulu,"17",KAMPUNG GANDUNG,swasta,KB,C,kemdikbud,valid
+102.1922483,-3.0969667,"374841",SDN 09 LEBONG,"10701915",11,4,7,4,2,2,47,24,23,6,Lebong,"1707",Bengkulu,"17",Desa Tunggang,negeri,SD,B,kemdikbud,valid
+102.19911,-3.1167283,"374845",SDN 67 LEBONG,"10702034",15,4,11,3,2,1,322,162,160,12,Lebong,"1707",Bengkulu,"17",Jl. Karang Nio Muara Ama,negeri,SD,B,kemdikbud,valid
+102.1942733,-3.1123133,"374850",SDIT AL-KAHFI,"69902917",21,5,16,2,0,2,346,180,166,12,Lebong,"1707",Bengkulu,"17",Jl. Kampung Jawa Kelurahan Kampung Jawa,swasta,SD,B,kemdikbud,valid
+102.4683,-3.2384,"374851",SDN 27 LEBONG,"10701942",11,2,9,1,1,0,128,65,63,6,Lebong,"1707",Bengkulu,"17",Jln. Raya Curup-Muara Aman,negeri,SD,B,kemdikbud,valid
+102.1025,-2.8594,"374852",SDN 24 LEBONG,"10701939",8,1,7,3,2,1,104,57,47,6,Lebong,"1707",Bengkulu,"17",Desa Bioa Sengok Kecamatan Rimbo Pengadang,negeri,SD,B,kemdikbud,valid
+102.421436,-3.29464,"374854",SMK IT AL HUSNA,"69966296",6,3,3,1,0,1,27,14,13,4,Lebong,"1707",Bengkulu,"17",JL. Lintas Tapus,swasta,SMK,C,kemdikbud,valid
+102.1839983,-3.1628233,"374863",SDN 54 LEBONG,"10702019",10,4,6,2,2,0,235,127,108,8,Lebong,"1707",Bengkulu,"17",Jl. Raya Bukit Resam Desa Daneu Kec. Lebong Atas Kab. Lebong 39265,negeri,SD,B,kemdikbud,valid
+102.1776,-3.1787,"374866",SDN 75 LEBONG,"10702042",11,4,7,3,2,1,90,53,37,6,Lebong,"1707",Bengkulu,"17",Tabeak Blau,negeri,SD,B,kemdikbud,valid
+102.1837233,-3.1707483,"374868",SMPN 02 LEBONG,"10701976",21,9,12,2,1,1,230,110,120,9,Lebong,"1707",Bengkulu,"17",Jalan Raya TabeaK Blau,negeri,SMP,B,kemdikbud,valid
+102.4106,-3.2368,"374872",SDN 39 LEBONG,"10701970",12,5,7,2,0,2,114,61,53,6,Lebong,"1707",Bengkulu,"17",Desa Talang Baru,negeri,SD,C,kemdikbud,valid
+102.0713,-2.9684,"374873",SDN 41 LEBONG,"10701972",11,2,9,3,2,1,160,73,87,8,Lebong,"1707",Bengkulu,"17",Topos,negeri,SD,B,kemdikbud,valid
+102.2941,-3.1825,"374882",SDN 48 LEBONG,"10702013",21,5,16,5,2,3,260,144,116,12,Lebong,"1707",Bengkulu,"17",Desa Karang Dapo Atas,negeri,SD,B,kemdikbud,valid
+102.3405,-3.1432,"374884",SDN 86 LEBONG,"69787446",6,2,4,4,0,4,41,25,16,6,Lebong,"1707",Bengkulu,"17",Desa Talang Kerinci,negeri,SD,C,kemdikbud,valid
+102.2548,-3.137,"374891",SPS ATH-THAARIQ,"69974230",1,0,1,1,0,1,27,17,10,2,Lebong,"1707",Bengkulu,"17",DESA MAGELANG BARU,swasta,SPS,C,kemdikbud,valid
+102.175648,-3.164245,"374898",TK PUTRI SERINDANG BULAN,"70004934",3,0,3,1,0,1,64,33,31,3,Lebong,"1707",Bengkulu,"17",Jl. Raya Tubei - Arga Makmur Komplek Mesjid Agung Sultan Mahmud Abdullah Islamic,swasta,TK,B,kemdikbud,valid
+0,0,"374903",SPS IT SERINDANG BULAN,"70004933",1,0,1,2,0,2,0,0,0,0,Lebong,"1707",Bengkulu,"17",Jl. Raya Tubei - Arga Makmur Komplek Mesjid Agung Sultan Mahmud Abdullah Islamic,swasta,SPS,,kemdikbud,not-mapped
+102.1774,-3.0152,"374909",SMPN 14 LEBONG,"10703083",14,4,10,3,3,0,85,44,41,4,Lebong,"1707",Bengkulu,"17",Tanjung Agung,negeri,SMP,C,kemdikbud,valid
+0,0,"374910",TPA BUNDA GHANIA,"70012055",1,0,1,0,0,0,0,0,0,0,Lebong,"1707",Bengkulu,"17",Desa Garut Kecamatan Amen,swasta,TPA,,kemdikbud,not-mapped
+0,0,"374911",TK MENTARI,"69792456",0,0,0,1,0,1,16,9,7,1,Lebong,"1707",Bengkulu,"17",Jl.H.Raden Karna Kompek BTN Griya Asri indah,swasta,TK,C,kemdikbud,not-mapped
+0,0,"374915",SPS PAUD ANANDA,"70031104",1,0,1,1,0,1,40,27,13,2,Lebong,"1707",Bengkulu,"17",Desa garut Kecamatan Amen,swasta,SPS,,kemdikbud,not-mapped
+102.2069,-3.1188,"374918",SMAS PGRI AMEN,"10701983",4,1,3,2,0,2,32,27,5,3,Lebong,"1707",Bengkulu,"17",JL. RAYA KOTA AGUNG,swasta,SMA,C,kemdikbud,valid
+0,0,"374919",PKBM AL ANSORI,P9999418,5,4,1,3,2,1,83,31,52,3,Lebong,"1707",Bengkulu,"17",Sukau Mergo,swasta,PKBM,,kemdikbud,not-mapped
+0,0,"374920",KB BIYOA U EM,"69792448",2,0,2,1,0,1,5,4,1,2,Lebong,"1707",Bengkulu,"17",TUAN KEBOA,swasta,KB,C,kemdikbud,not-mapped
+0,0,"374921",KB BUNDA,"69792523",0,0,0,1,0,1,16,6,10,1,Lebong,"1707",Bengkulu,"17",MOHAMMAD HATTA,swasta,KB,C,kemdikbud,not-mapped
+0,0,"374922",TK HARAPAN BANGSA,"69974817",2,0,2,2,0,2,14,6,8,2,Lebong,"1707",Bengkulu,"17",DESA LEMEU,swasta,TK,C,kemdikbud,not-mapped
+102.0783,-2.8274,"374927",SDN 13 LEBONG,"10701920",17,8,9,4,1,3,84,43,41,6,Lebong,"1707",Bengkulu,"17",Lemeu,negeri,SD,C,kemdikbud,valid
+0,0,"374934",KB TUNAS BANGSA,"70044013",2,0,2,1,1,0,14,11,3,1,Lebong,"1707",Bengkulu,"17",DESA SUNGAI LISAI,swasta,KB,,kemdikbud,not-mapped
+102.1113,-3.0245,"374937",SDN 08 LEBONG,"10701914",10,2,8,3,1,2,105,58,47,6,Lebong,"1707",Bengkulu,"17",Tambang Saweak,negeri,SD,C,kemdikbud,valid
+102.0272,-2.8092,"374941",SMPN 03 LEBONG,"10701993",14,4,10,5,2,3,111,69,42,6,Lebong,"1707",Bengkulu,"17",Air Kopras,negeri,SMP,B,kemdikbud,valid
+102.2677,-3.238,"424647",SDN 64 LEBONG,"10702030",8,4,4,2,2,0,49,27,22,6,Lebong,"1707",Bengkulu,"17",Desa Mangkurajo,negeri,SD,C,kemdikbud,valid
+102.3536,-3.2556,"424652",SMPN 11 LEBONG,"10702005",12,4,8,3,1,2,65,35,30,3,Lebong,"1707",Bengkulu,"17",Mangkurajo,negeri,SMP,B,kemdikbud,valid
+102.3058,-3.1965,"424655",SMKN 3 LEBONG,"10703080",56,29,27,15,7,8,353,259,94,22,Lebong,"1707",Bengkulu,"17",Desa Tik Jeniak Kecamatan Lebong Selatan Kabupaten Lebong,negeri,SMK,B,kemdikbud,valid
+0,0,"424659",NAIAM BATON,"69919442",4,0,4,1,0,1,41,16,25,3,Lebong,"1707",Bengkulu,"17",JL. Kampung Jawa,swasta,TK,C,kemdikbud,not-mapped
+0,0,"424663",TK GEMBIRA,"69974279",4,0,4,0,0,0,22,9,13,2,Lebong,"1707",Bengkulu,"17",DESA TALANG ULU,swasta,TK,C,kemdikbud,not-mapped
+114.421127,-5.443757,"424665",KB BUNDA ATTAHZIEB,"69792449",1,0,1,1,0,1,1,1,0,1,Lebong,"1707",Bengkulu,"17",KIPATIH NO 49,swasta,KB,C,kemdikbud,invalid
+102.194159,-3.109548,"424666",KB MAMBANGSARI,"69792442",0,0,0,1,0,1,24,14,10,2,Lebong,"1707",Bengkulu,"17",MY SINGADIKANE,swasta,KB,C,kemdikbud,valid
+102.200218,-3.117403,"424668",KB MANDIRI,"69792462",4,0,4,1,0,1,31,13,18,2,Lebong,"1707",Bengkulu,"17",Jalan Desa Gandung Baru Desa Gandung Baru Lebong Utara,swasta,KB,C,kemdikbud,valid
+0,0,"424670",SPS GEMBIRA,"69974278",3,0,3,1,0,1,53,27,26,2,Lebong,"1707",Bengkulu,"17",DESA TALANG ULU,swasta,SPS,C,kemdikbud,not-mapped
+102.4453329,-3.2943755,"424676",SDN 26 LEBONG,"10701941",9,2,7,1,0,1,41,15,26,6,Lebong,"1707",Bengkulu,"17",Desa Tik Kuto,negeri,SD,C,kemdikbud,valid
+102.232,-3.1482,"424684",SDN 21 LEBONG,"10701934",11,3,8,3,0,3,104,51,53,6,Lebong,"1707",Bengkulu,"17",Suka Damai,negeri,SD,B,kemdikbud,valid
+0,0,"424689",TK AL-FATHAN,"70044042",2,0,2,1,0,1,11,6,5,1,Lebong,"1707",Bengkulu,"17",DESA TIK TEBING,swasta,TK,,kemdikbud,not-mapped
+102.17154,-3.1693767,"424692",SMPN 21 LEBONG,"10703224",21,4,17,1,1,0,142,81,61,6,Lebong,"1707",Bengkulu,"17",Desa Sukau Kayo,negeri,SMP,B,kemdikbud,valid
+102.1675483,-3.160795,"424694",SMK ISLAM TERPADU (IT) MUHAMMAD AL FATIH,"69989750",5,3,2,1,1,0,19,11,8,3,Lebong,"1707",Bengkulu,"17",Jl. Jalur dua Komplek Perkantoran,swasta,SMK,C,kemdikbud,valid
+106.8021,-6.2255,"424696",TK NEGERI TAPUS,"10703363",4,0,4,6,1,5,58,23,35,4,Lebong,"1707",Bengkulu,"17",Jalan Raya Topos - Talang Baru I,negeri,TK,C,kemdikbud,invalid
+102.4159,-3.2519,"424697",SDN 88 LEBONG,"69965729",10,6,4,3,2,1,27,13,14,6,Lebong,"1707",Bengkulu,"17",DESA TALANG DONOK KEC. TOPOS,negeri,SD,C,kemdikbud,valid
+0,0,"424699",TK NANDA CERIA,"69975628",2,0,2,3,1,2,31,16,15,2,Lebong,"1707",Bengkulu,"17",DESA BUNGIN,swasta,TK,B,kemdikbud,not-mapped
+102.1702,-3.0943,"424703",SDN 73 LEBONG,"10702040",14,3,11,5,2,3,217,104,113,9,Lebong,"1707",Bengkulu,"17",Bungin,negeri,SD,B,kemdikbud,valid
+102.2945,-3.1826,"424706",SMPN 19 LEBONG,"10703093",18,2,16,3,2,1,89,51,38,3,Lebong,"1707",Bengkulu,"17","Jalan Serban Kuning, Desa Karang Dapo Atas",negeri,SMP,C,kemdikbud,valid
+0,0,"424708",TK NEGERI LEBONG SAKTI/SATAP,"69799861",3,0,3,1,0,1,19,11,8,3,Lebong,"1707",Bengkulu,"17",Desa Ujung Tanjung III,negeri,TK,Belum Terakreditasi,kemdikbud,not-mapped
+0,0,"424709",TK AKHLAK MULIA,"69912086",6,0,6,2,0,2,75,32,43,5,Lebong,"1707",Bengkulu,"17",Jln. Suka Bumi Kec. Lebong Sakti,swasta,TK,B,kemdikbud,not-mapped
+0,0,"424711",KB AISYIYAH 5,"69949976",0,0,0,1,0,1,0,0,0,0,Lebong,"1707",Bengkulu,"17",JL. RAYA UJUNG TANJUNG II,swasta,KB,C,kemdikbud,not-mapped
+102.1817468,-3.1501062,"424716",SDN 16 LEBONG,"10701924",19,2,17,2,1,1,96,48,48,6,Lebong,"1707",Bengkulu,"17",KELURAHAN TANJUNG AGUNG,negeri,SD,B,kemdikbud,valid
+0,0,"424729",SPS ZAQILLAH,"69932298",2,2,0,1,0,1,0,0,0,0,Lebong,"1707",Bengkulu,"17",JALAN DESA SUKAU RAJO,swasta,SPS,C,kemdikbud,not-mapped
+102.2135883,-3.13261,"424730",SDN 02 LEBONG,"10701908",10,2,8,3,0,3,99,50,49,6,Lebong,"1707",Bengkulu,"17",Paya Embik,negeri,SD,B,kemdikbud,valid
+102.2121983,-3.1134967,"424731",SDN 04 LEBONG,"10701910",13,4,9,2,0,2,34,25,9,6,Lebong,"1707",Bengkulu,"17",Desa Sukau Rajo Kec. Amen Kab. Lebong,negeri,SD,C,kemdikbud,valid
+102.2305483,-3.1205717,"424733",SDN 07 LEBONG,"10701913",12,3,9,3,1,2,99,56,43,6,Lebong,"1707",Bengkulu,"17",Garut,negeri,SD,B,kemdikbud,valid
+102.20582,-3.1219283,"424736",SDN 42 LEBONG,"10701974",13,0,13,0,0,0,166,97,69,9,Lebong,"1707",Bengkulu,"17",Kelurahan  Amen,negeri,SD,B,kemdikbud,valid
+102.232482,-3.103195,"424740",KB AL IKLAS,"69912076",1,0,1,1,1,0,10,9,1,2,Lebong,"1707",Bengkulu,"17",Jln. Kota Baru Kec. Uram Jaya,swasta,KB,C,kemdikbud,valid
+0,0,"424744",MUARA KASIH,"69786113",3,0,3,1,1,0,42,23,19,3,Lebong,"1707",Bengkulu,"17",JALAN RAYA KOTA BARU,swasta,KB,,kemdikbud,not-mapped
+102.3914,-3.0692,"424746",SDN 31 LEBONG,"10701961",11,3,8,3,2,1,63,35,28,6,Lebong,"1707",Bengkulu,"17",Kota Agung,negeri,SD,C,kemdikbud,valid
+0,0,"424751",KB TIK SERDANG,"69911933",1,1,0,1,0,1,31,11,20,2,Lebong,"1707",Bengkulu,"17",Jln. Bioa Putiak kel. Pinang Belapis,swasta,KB,C,kemdikbud,not-mapped
+102.1983631,-3.1172085,"443698",MTSN 1 LEBONG,"10704072",35,13,22,2,,,395,180,215,13,Lebong,"1707",Bengkulu,"17",JL. KAMPUNG JAWA NO.07 TUNGGANG LEBONG UTARA LEBONG BENGKULU,negeri,MTs,A,kemenag,valid
+102.1962913,-3.1090395,"444323",MIN 1 LEBONG,"60705313",22,5,17,3,,,382,192,190,16,Lebong,"1707",Bengkulu,"17",JALAN GAJAH MADA NO. 01 KAMPUNG JAWA LEBONG UTARA LEBONG BENGKULU,negeri,MI,A,kemenag,valid
+102.3177522,-3.205864,"445739",RA PELITA PLTA TES,"69731632",10,0,10,0,,,76,40,36,5,Lebong,"1707",Bengkulu,"17",Lebong selatan TES LEBONG SELATAN LEBONG BENGKULU,swasta,RA,B,kemenag,valid
+102.3493501,-3.2289749,"461352",MTSN 2 LEBONG,"10704070",22,12,10,0,,,54,26,28,4,Lebong,"1707",Bengkulu,"17",Jl. Raya Curup- Muara Aman KUTAI DONOK LEBONG SELATAN LEBONG BENGKULU,negeri,MTs,C,kemenag,valid
+102.2815253,-3.167811,"471506",MAN 1 LEBONG,"10704001",32,12,20,2,,,142,77,65,8,Lebong,"1707",Bengkulu,"17",JALAN SERBAN KUNING DESA PELABUHAN TALANG LEAK PELABUHAN TALANG LIAK BINGIN KUNING LEBONG BENGKULU,negeri,MA,A,kemenag,valid
